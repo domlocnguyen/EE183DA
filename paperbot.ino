@@ -1,4 +1,8 @@
 /*
+  Base on the paperbot code, just add 2 function V2PWM_L, V2PWM_R to convert from velocity to PWM signal
+  The operation command of robot was written under the case of "Heart command", below the "Hello World".
+  
+  
   Wireless Servo Control, with ESP as Access Point
 
   Usage: 
