@@ -1,3 +1,8 @@
+/* Simple code to put PMW value reading from serial monitor
+to servo motor
+By: Loc Nguyen
+*/
+
 #include <Arduino.h>
 #include <Servo.h>
 
