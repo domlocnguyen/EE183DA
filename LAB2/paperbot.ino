@@ -1,4 +1,8 @@
 /*
+  Base on the paperbot code on CCLE, we modify that the car can able to read all the sensors
+  Using same communication method of paperbot, websocket, to communicate with computer
+  Code modified by Loc Nguyen
+  
   Wireless Servo Control, with ESP as Access Point
 
   Usage: 
